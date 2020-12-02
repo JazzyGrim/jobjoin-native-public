@@ -1,0 +1,1 @@
+Mapa "actions" sadrži sve moguće akcije za React Redux biblioteku, razvrstane po svojoj ulozi u različite datoteke.
